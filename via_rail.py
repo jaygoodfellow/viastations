@@ -43,7 +43,7 @@ class Station:
         
         try:
             # Get the coordinates, between '=' and '+'
-            googlemap_href = soup.find("a", href=re.compile("maps.google.com"))['href']
+            googlemap_href = soup.find("a", href=re.compile("https://www.google.com"))['href']
             coordinates_string = re.search('\=(.*)\+', googlemap_href).group(1)
             coordinates_list = coordinates_string.split(',')
             return (coordinates_list[0], coordinates_list[1])
