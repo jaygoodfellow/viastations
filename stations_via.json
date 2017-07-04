@@ -6,6 +6,12 @@
         "dEn": "ABBOTSFORD"
     }, 
     {
+        "sc": "ACTN", 
+        "pv": "ON", 
+        "sn": "ACTON", 
+        "dEn": "ACTON"
+    }, 
+    {
         "sc": "AGAS", 
         "pv": "BC", 
         "sn": "AGASSIZ", 
@@ -60,6 +66,12 @@
         "dEn": "ALEZA LAKE"
     }, 
     {
+        "sc": "ALLA", 
+        "pv": "ON", 
+        "sn": "ALLANDALE WATERFRONT", 
+        "dEn": "ALLANDALE WATERFRONT"
+    }, 
+    {
         "sc": "ALWB", 
         "pv": "ON", 
         "sn": "ALLANWATER BRIDGE", 
@@ -70,6 +82,12 @@
         "pv": "MB", 
         "sn": "AMERY", 
         "dEn": "AMERY"
+    }, 
+    {
+        "sc": "AMHB", 
+        "pv": "NS", 
+        "sn": "AMHERST", 
+        "dEn": "AMHERST"
     }, 
     {
         "sc": "AMHS", 
@@ -94,6 +112,12 @@
         "pv": "QC", 
         "sn": "ANJOU", 
         "dEn": "ANJOU"
+    }, 
+    {
+        "sc": "ANTI", 
+        "pv": "NS", 
+        "sn": "ANTIGONISH", 
+        "dEn": "ANTIGONISH"
     }, 
     {
         "sc": "APPL", 
@@ -156,16 +180,34 @@
         "dEn": "BACK"
     }, 
     {
+        "sc": "BADD", 
+        "pv": "NS", 
+        "sn": "BADDECK", 
+        "dEn": "BADDECK"
+    }, 
+    {
         "sc": "BARA", 
         "pv": "QC", 
         "sn": "BARACHOIS", 
         "dEn": "BARACHOIS"
     }, 
     {
+        "sc": "BARR", 
+        "pv": "ON", 
+        "sn": "BARRHAVEN CENTRE", 
+        "dEn": "BARRHAVEN CENTRE"
+    }, 
+    {
         "sc": "BARS", 
         "pv": "ON", 
         "sn": "BARRIE SOUTH", 
         "dEn": "BARRIE SOUTH"
+    }, 
+    {
+        "sc": "BATH", 
+        "pv": "NB", 
+        "sn": "BATHURST", 
+        "dEn": "BATHURST"
     }, 
     {
         "sc": "BTRS", 
@@ -256,6 +298,12 @@
         "pv": "QC", 
         "sn": "BONAVENTURE", 
         "dEn": "BONAVENTURE"
+    }, 
+    {
+        "sc": "BRDN", 
+        "pv": "PE", 
+        "sn": "BORDEN", 
+        "dEn": "BORDEN"
     }, 
     {
         "sc": "BBAR", 
@@ -372,6 +420,12 @@
         "dEn": "BYLOT"
     }, 
     {
+        "sc": "CABA", 
+        "pv": "QC", 
+        "sn": "CABANO", 
+        "dEn": "CABANO"
+    }, 
+    {
         "sc": "CALG", 
         "pv": "AB", 
         "sn": "CALGARY", 
@@ -382,6 +436,12 @@
         "pv": "AB", 
         "sn": "CALGARY", 
         "dEn": "CALGARY"
+    }, 
+    {
+        "sc": "CBTB", 
+        "pv": "NB", 
+        "sn": "CAMPBELLTON", 
+        "dEn": "CAMPBELLTON"
     }, 
     {
         "sc": "CBTN", 
@@ -468,6 +528,12 @@
         "dEn": "CASSELMAN"
     }, 
     {
+        "sc": "CASS", 
+        "pv": "BC", 
+        "sn": "CASSIAR CANNERY", 
+        "dEn": "CASSIAR CANNERY"
+    }, 
+    {
         "sc": "CAUS", 
         "pv": "QC", 
         "sn": "CAUSAPSCAL", 
@@ -526,6 +592,18 @@
         "pv": "NB", 
         "sn": "CHARLO", 
         "dEn": "CHARLO"
+    }, 
+    {
+        "sc": "CLTU", 
+        "pv": "PE", 
+        "sn": "CHARLOTTETOWN UPEI", 
+        "dEn": "CHARLOTTETOWN UPEI"
+    }, 
+    {
+        "sc": "CLTT", 
+        "pv": "PE", 
+        "sn": "CHARLOTTETOWN", 
+        "dEn": "CHARLOTTETOWN"
     }, 
     {
         "sc": "CHNY", 
@@ -666,6 +744,12 @@
         "dEn": "CORMORANT"
     }, 
     {
+        "sc": "CORW", 
+        "pv": "PE", 
+        "sn": "CORNWALL", 
+        "dEn": "CORNWALL"
+    }, 
+    {
         "sc": "CWLL", 
         "pv": "ON", 
         "sn": "CORNWALL", 
@@ -682,6 +766,12 @@
         "pv": "MB", 
         "sn": "CRANBERRY PORTAGE", 
         "dEn": "CRANBERRY PORTAGE"
+    }, 
+    {
+        "sc": "CRAP", 
+        "pv": "PE", 
+        "sn": "CRAPAUD", 
+        "dEn": "CRAPAUD"
     }, 
     {
         "sc": "CRSM", 
@@ -702,6 +792,12 @@
         "dEn": "CROTON HARMON"
     }, 
     {
+        "sc": "DALH", 
+        "pv": "NB", 
+        "sn": "DALHOUSIE", 
+        "dEn": "DALHOUSIE"
+    }, 
+    {
         "sc": "DALT", 
         "pv": "ON", 
         "sn": "DALTON", 
@@ -720,10 +816,22 @@
         "dEn": "DA-ROU-LAC LODGE"
     }, 
     {
+        "sc": "DART", 
+        "pv": "NS", 
+        "sn": "DARTMOUTH", 
+        "dEn": "DARTMOUTH"
+    }, 
+    {
         "sc": "DAUP", 
         "pv": "MB", 
         "sn": "DAUPHIN", 
         "dEn": "DAUPHIN"
+    }, 
+    {
+        "sc": "DEGE", 
+        "pv": "QC", 
+        "sn": "DEGELIS", 
+        "dEn": "DEGELIS"
     }, 
     {
         "sc": "DERI", 
@@ -846,6 +954,12 @@
         "dEn": "EDMONTON"
     }, 
     {
+        "sc": "EDMU", 
+        "pv": "NB", 
+        "sn": "EDMUNDSTON", 
+        "dEn": "EDMUNDSTON"
+    }, 
+    {
         "sc": "EDSN", 
         "pv": "AB", 
         "sn": "EDSON", 
@@ -862,6 +976,12 @@
         "pv": "MB", 
         "sn": "ELMA", 
         "dEn": "ELMA"
+    }, 
+    {
+        "sc": "ELMS", 
+        "pv": "NS", 
+        "sn": "ELMSDALE", 
+        "dEn": "ELMSDALE"
     }, 
     {
         "sc": "ELSA", 
@@ -914,8 +1034,14 @@
     {
         "sc": "FALL", 
         "pv": "ON", 
-        "sn": "FALLOWFIELD", 
-        "dEn": "FALLOWFIELD"
+        "sn": "FALLOWFIELD RAIL STATION", 
+        "dEn": "FALLOWFIELD RAIL STATION"
+    }, 
+    {
+        "sc": "FALM", 
+        "pv": "NS", 
+        "sn": "FALMOUTH", 
+        "dEn": "FALMOUTH"
     }, 
     {
         "sc": "FALR", 
@@ -966,6 +1092,12 @@
         "dEn": "FLINDT LANDING"
     }, 
     {
+        "sc": "FLOR", 
+        "pv": "NB", 
+        "sn": "FLORENCEVILLE", 
+        "dEn": "FLORENCEVILLE"
+    }, 
+    {
         "sc": "FOLE", 
         "pv": "ON", 
         "sn": "FOLEYET", 
@@ -994,6 +1126,18 @@
         "pv": "ON", 
         "sn": "FRANZ", 
         "dEn": "FRANZ"
+    }, 
+    {
+        "sc": "XYFC", 
+        "pv": "NB", 
+        "sn": "FREDERICTON AIRPORT", 
+        "dEn": "FREDERICTON AIRPORT"
+    }, 
+    {
+        "sc": "FRED", 
+        "pv": "NB", 
+        "sn": "FREDERICTON", 
+        "dEn": "FREDERICTON"
     }, 
     {
         "sc": "GAGN", 
@@ -1074,6 +1218,12 @@
         "dEn": "GOGAMA"
     }, 
     {
+        "sc": "GFAL", 
+        "pv": "NB", 
+        "sn": "GRAND FALLS", 
+        "dEn": "GRAND FALLS"
+    }, 
+    {
         "sc": "GDRV", 
         "pv": "QC", 
         "sn": "GRANDE RIVIERE", 
@@ -1134,6 +1284,12 @@
         "dEn": "HALCROW"
     }, 
     {
+        "sc": "XYHZ", 
+        "pv": "NS", 
+        "sn": "HALIFAX AIRPORT", 
+        "dEn": "HALIFAX AIRPORT"
+    }, 
+    {
         "sc": "HLFX", 
         "pv": "NS", 
         "sn": "HALIFAX", 
@@ -1144,6 +1300,12 @@
         "pv": "ON", 
         "sn": "HAMILTON", 
         "dEn": "HAMILTON"
+    }, 
+    {
+        "sc": "HAMP", 
+        "pv": "NB", 
+        "sn": "HAMPTON", 
+        "dEn": "HAMPTON"
     }, 
     {
         "sc": "HRVY", 
@@ -1308,6 +1470,12 @@
         "dEn": "KAMSACK"
     }, 
     {
+        "sc": "KANA", 
+        "pv": "ON", 
+        "sn": "KANATA CENTROM", 
+        "dEn": "KANATA CENTROM"
+    }, 
+    {
         "sc": "KPTC", 
         "pv": "QC", 
         "sn": "KAPITACHUAN", 
@@ -1330,6 +1498,12 @@
         "pv": "ON", 
         "sn": "KENNEDY", 
         "dEn": "KENNEDY"
+    }, 
+    {
+        "sc": "KNTV", 
+        "pv": "NS", 
+        "sn": "KENTVILLE", 
+        "dEn": "KENTVILLE"
     }, 
     {
         "sc": "KETR", 
@@ -1566,6 +1740,12 @@
         "dEn": "LOOS"
     }, 
     {
+        "sc": "LSAC", 
+        "pv": "NS", 
+        "sn": "LOWER SACKVILLE", 
+        "dEn": "LOWER SACKVILLE"
+    }, 
+    {
         "sc": "LUKE", 
         "pv": "MB", 
         "sn": "LUKE", 
@@ -1740,6 +1920,12 @@
         "dEn": "MIRAMICHI"
     }, 
     {
+        "sc": "MIRB", 
+        "pv": "NB", 
+        "sn": "MIRAMICHI", 
+        "dEn": "MIRAMICHI"
+    }, 
+    {
         "sc": "MSBI", 
         "pv": "ON", 
         "sn": "MISSANABIE", 
@@ -1750,6 +1936,12 @@
         "pv": "BC", 
         "sn": "MISSION HARBOUR", 
         "dEn": "MISSION HARBOUR"
+    }, 
+    {
+        "sc": "XYQM", 
+        "pv": "NB", 
+        "sn": "MONCTON AIRPORT", 
+        "dEn": "MONCTON AIRPORT"
     }, 
     {
         "sc": "MCTN", 
@@ -1812,6 +2004,12 @@
         "dEn": "MOUNT JOY"
     }, 
     {
+        "sc": "MOPL", 
+        "pv": "ON", 
+        "sn": "MOUNT PLEASANT", 
+        "dEn": "MOUNT PLEASANT"
+    }, 
+    {
         "sc": "MUDR", 
         "pv": "ON", 
         "sn": "MUD RIVER", 
@@ -1854,10 +2052,22 @@
         "dEn": "NEW CARLISLE"
     }, 
     {
+        "sc": "NGLA", 
+        "pv": "NS", 
+        "sn": "NEW GLASGOW", 
+        "dEn": "NEW GLASGOW"
+    }, 
+    {
         "sc": "NHAZ", 
         "pv": "BC", 
         "sn": "NEW HAZELTON", 
         "dEn": "NEW HAZELTON"
+    }, 
+    {
+        "sc": "NMIN", 
+        "pv": "NS", 
+        "sn": "NEW MINAS", 
+        "dEn": "NEW MINAS"
     }, 
     {
         "sc": "NRCH", 
@@ -1912,6 +2122,18 @@
         "pv": "BC", 
         "sn": "NORTH BEND", 
         "dEn": "NORTH BEND"
+    }, 
+    {
+        "sc": "NSYD", 
+        "pv": "NS", 
+        "sn": "NORTH SYDNEY", 
+        "dEn": "NORTH SYDNEY"
+    }, 
+    {
+        "sc": "NDDL", 
+        "pv": "QC", 
+        "sn": "NOTRE-DAME-DU-LAC", 
+        "dEn": "NOTRE-DAME-DU-LAC"
     }, 
     {
         "sc": "NOUV", 
@@ -1980,10 +2202,22 @@
         "dEn": "ORIOLE"
     }, 
     {
+        "sc": "ORLE", 
+        "pv": "ON", 
+        "sn": "ORLEANS - PLACE D'ORLEANS", 
+        "dEn": "ORLEANS - PLACE D'ORLEANS"
+    }, 
+    {
         "sc": "OROK", 
         "pv": "MB", 
         "sn": "OROK", 
         "dEn": "OROK"
+    }, 
+    {
+        "sc": "OROM", 
+        "pv": "NB", 
+        "sn": "OROMOCTO", 
+        "dEn": "OROMOCTO"
     }, 
     {
         "sc": "OSHA", 
@@ -2014,6 +2248,12 @@
         "pv": "ON", 
         "sn": "OTTERMERE", 
         "dEn": "OTTERMERE"
+    }, 
+    {
+        "sc": "OXFO", 
+        "pv": "NS", 
+        "sn": "OXFORD", 
+        "dEn": "OXFORD"
     }, 
     {
         "sc": "PACI", 
@@ -2068,6 +2308,12 @@
         "pv": "QC", 
         "sn": "PERCÉ", 
         "dEn": "PERCÉ"
+    }, 
+    {
+        "sc": "PERT", 
+        "pv": "NB", 
+        "sn": "PERTH-ANDOVER", 
+        "dEn": "PERTH-ANDOVER"
     }, 
     {
         "sc": "PROC", 
@@ -2142,6 +2388,12 @@
         "dEn": "PORT DANIEL"
     }, 
     {
+        "sc": "PHAW", 
+        "pv": "NS", 
+        "sn": "PORT HAWKESBURY", 
+        "dEn": "PORT HAWKESBURY"
+    }, 
+    {
         "sc": "PHOP", 
         "pv": "ON", 
         "sn": "PORT HOPE", 
@@ -2178,12 +2430,6 @@
         "dEn": "PRINCE RUPERT"
     }, 
     {
-        "sc": "XYPR", 
-        "pv": "BC", 
-        "sn": "PRINCE RUPERT", 
-        "dEn": "PRINCE RUPERT"
-    }, 
-    {
         "sc": "PROS", 
         "pv": "MB", 
         "sn": "PROSPECTOR", 
@@ -2194,6 +2440,12 @@
         "pv": "QC", 
         "sn": "QUÉBEC", 
         "dEn": "QUÉBEC"
+    }, 
+    {
+        "sc": "QUIS", 
+        "pv": "NB", 
+        "sn": "QUISPAMSIS", 
+        "dEn": "QUISPAMSIS"
     }, 
     {
         "sc": "RAMS", 
@@ -2244,6 +2496,12 @@
         "dEn": "RESERVE"
     }, 
     {
+        "sc": "REXT", 
+        "pv": "NB", 
+        "sn": "REXTON", 
+        "dEn": "REXTON"
+    }, 
+    {
         "sc": "RHIN", 
         "pv": "NY", 
         "sn": "RHINECLIFF", 
@@ -2290,6 +2548,12 @@
         "pv": "QC", 
         "sn": "RIVIÈRE-DES-PRAIRIES", 
         "dEn": "RIVIÈRE-DES-PRAIRIES"
+    }, 
+    {
+        "sc": "RDLB", 
+        "pv": "QC", 
+        "sn": "RIVIÈRE-DU-LOUP", 
+        "dEn": "RIVIÈRE-DU-LOUP"
     }, 
     {
         "sc": "RDLX", 
@@ -2370,10 +2634,22 @@
         "dEn": "RURTHERFORD"
     }, 
     {
+        "sc": "SACB", 
+        "pv": "NB", 
+        "sn": "SACKVILLE", 
+        "dEn": "SACKVILLE"
+    }, 
+    {
         "sc": "SACK", 
         "pv": "NB", 
         "sn": "SACKVILLE", 
         "dEn": "SACKVILLE"
+    }, 
+    {
+        "sc": "SJMB", 
+        "pv": "NB", 
+        "sn": "SAINT JOHN", 
+        "dEn": "SAINT JOHN"
     }, 
     {
         "sc": "STBR", 
@@ -2412,6 +2688,12 @@
         "dEn": "SAINT-LAMBERT"
     }, 
     {
+        "sc": "SALI", 
+        "pv": "NB", 
+        "sn": "SALISBURY", 
+        "dEn": "SALISBURY"
+    }, 
+    {
         "sc": "SANF", 
         "pv": "QC", 
         "sn": "SANFORD", 
@@ -2434,6 +2716,12 @@
         "pv": "SK", 
         "sn": "SASKATOON", 
         "dEn": "SASKATOON"
+    }, 
+    {
+        "sc": "SAUV", 
+        "pv": "QC", 
+        "sn": "SAUVÉ", 
+        "dEn": "SAUVÉ"
     }, 
     {
         "sc": "SAVL", 
@@ -2476,6 +2764,12 @@
         "pv": "ON", 
         "sn": "SHEAHAN", 
         "dEn": "SHEAHAN"
+    }, 
+    {
+        "sc": "SHED", 
+        "pv": "NB", 
+        "sn": "SHEDIAC", 
+        "dEn": "SHEDIAC"
     }, 
     {
         "sc": "SHRD", 
@@ -2532,12 +2826,6 @@
         "dEn": "SMITHERS"
     }, 
     {
-        "sc": "XYYD", 
-        "pv": "BC", 
-        "sn": "SMITHERS", 
-        "dEn": "SMITHERS"
-    }, 
-    {
         "sc": "SMTF", 
         "pv": "ON", 
         "sn": "SMITHS FALLS", 
@@ -2580,6 +2868,12 @@
         "dEn": "ST-BASILE-LE-GRAND"
     }, 
     {
+        "sc": "SREW", 
+        "pv": "NS", 
+        "sn": "STEWIACKE", 
+        "dEn": "STEWIACKE"
+    }, 
+    {
         "sc": "SHPN", 
         "pv": "QC", 
         "sn": "ST-HILAIRE DE PORTNEUF", 
@@ -2592,10 +2886,22 @@
         "dEn": "ST-JUSTIN"
     }, 
     {
+        "sc": "SLEO", 
+        "pv": "NB", 
+        "sn": "ST-LEONARD", 
+        "dEn": "ST-LEONARD"
+    }, 
+    {
         "sc": "STLE", 
         "pv": "QC", 
         "sn": "ST-LÉONARD-MONTRÉAL-NORD", 
         "dEn": "ST-LÉONARD-MONTRÉAL-NORD"
+    }, 
+    {
+        "sc": "SLHH", 
+        "pv": "QC", 
+        "sn": "ST-LOUIS-DU-HA-HA", 
+        "dEn": "ST-LOUIS-DU-HA-HA"
     }, 
     {
         "sc": "SMRB", 
@@ -2688,6 +2994,12 @@
         "dEn": "SULTAN"
     }, 
     {
+        "sc": "SMSD", 
+        "pv": "PE", 
+        "sn": "SUMMERSIDE", 
+        "dEn": "SUMMERSIDE"
+    }, 
+    {
         "sc": "SMMC", 
         "pv": "QC", 
         "sn": "SUMMIT CLUB", 
@@ -2706,6 +3018,18 @@
         "dEn": "SUNNYBROOKE"
     }, 
     {
+        "sc": "SUSX", 
+        "pv": "NB", 
+        "sn": "SUSSEX", 
+        "dEn": "SUSSEX"
+    }, 
+    {
+        "sc": "SYDN", 
+        "pv": "NS", 
+        "sn": "SYDNEY", 
+        "dEn": "SYDNEY"
+    }, 
+    {
         "sc": "SYRA", 
         "pv": "NY", 
         "sn": "SYRACUSE", 
@@ -2722,12 +3046,6 @@
         "pv": "BC", 
         "sn": "TERRACE", 
         "dEn": "TERRACE"
-    }, 
-    {
-        "sc": "XYXT", 
-        "pv": "BC", 
-        "sn": "TERRACE-KITIMAT", 
-        "dEn": "TERRACE-KITIMAT"
     }, 
     {
         "sc": "TERB", 
@@ -2818,6 +3136,12 @@
         "pv": "QC", 
         "sn": "TROIS PISTOLES", 
         "dEn": "TROIS PISTOLES"
+    }, 
+    {
+        "sc": "TRUB", 
+        "pv": "NS", 
+        "sn": "TRURO", 
+        "dEn": "TRURO"
     }, 
     {
         "sc": "TRUR", 
@@ -2958,6 +3282,12 @@
         "dEn": "WEKUSKO"
     }, 
     {
+        "sc": "WHAR", 
+        "pv": "ON", 
+        "sn": "WEST HARBOUR", 
+        "dEn": "WEST HARBOUR"
+    }, 
+    {
         "sc": "WEST", 
         "pv": "ON", 
         "sn": "WESTON", 
@@ -2992,6 +3322,12 @@
         "pv": "YT", 
         "sn": "WHITEHORSE", 
         "dEn": "WHITEHORSE"
+    }, 
+    {
+        "sc": "WHYC", 
+        "pv": "NS", 
+        "sn": "WHYCOCOMAGH", 
+        "dEn": "WHYCOCOMAGH"
     }, 
     {
         "sc": "WGWC", 
@@ -3042,6 +3378,18 @@
         "dEn": "WIVENHOE"
     }, 
     {
+        "sc": "WOLF", 
+        "pv": "NS", 
+        "sn": "WOLFVILLE-ACADIA UNIV", 
+        "dEn": "WOLFVILLE-ACADIA UNIV"
+    }, 
+    {
+        "sc": "WOLU", 
+        "pv": "NS", 
+        "sn": "WOLFVILLE-MUD CREEK", 
+        "dEn": "WOLFVILLE-MUD CREEK"
+    }, 
+    {
         "sc": "WOMR", 
         "pv": "ON", 
         "sn": "WOMAN RIVER", 
@@ -3050,6 +3398,12 @@
     {
         "sc": "WDST", 
         "pv": "ON", 
+        "sn": "WOODSTOCK", 
+        "dEn": "WOODSTOCK"
+    }, 
+    {
+        "sc": "WOOD", 
+        "pv": "NB", 
         "sn": "WOODSTOCK", 
         "dEn": "WOODSTOCK"
     }, 
