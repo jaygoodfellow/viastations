@@ -11,6 +11,17 @@
         "sc": "ABBO"
     }, 
     {
+        "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ACTN", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ACTON", 
+        "dEn": "ACTON", 
+        "address": "", 
+        "sc": "ACTN"
+    }, 
+    {
         "pv": "BC", 
         "name": "Agassiz train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/AGAS", 
@@ -80,8 +91,8 @@
         "pv": "ON", 
         "name": "Aldershot train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ALDR", 
-        "long": "-79.8525", 
-        "lat": "43.3114", 
+        "long": "-79.8557", 
+        "lat": "43.3134", 
         "sn": "ALDERSHOT", 
         "dEn": "ALDERSHOT", 
         "address": "1199 Waterdown Rd., Burlington, ON, L7T 4A8, Canada", 
@@ -111,6 +122,17 @@
     }, 
     {
         "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALLA", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ALLANDALE WATERFRONT", 
+        "dEn": "ALLANDALE WATERFRONT", 
+        "address": "", 
+        "sc": "ALLA"
+    }, 
+    {
+        "pv": "ON", 
         "name": "Allanwater Bridge train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ALWB", 
         "long": "", 
@@ -130,6 +152,17 @@
         "dEn": "AMERY", 
         "address": "Amery, MB, Canada", 
         "sc": "AMRY"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Amherst - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMHB", 
+        "long": "-64.2354", 
+        "lat": "45.819", 
+        "sn": "AMHERST", 
+        "dEn": "AMHERST", 
+        "address": "34 HWY 6 exit 3, Amherst, NS, B4H 2X2, Canada", 
+        "sc": "AMHB"
     }, 
     {
         "pv": "NS", 
@@ -166,7 +199,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Anjou (AMT) station train", 
+        "name": "Anjou station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ANJO", 
         "long": "", 
         "lat": "", 
@@ -174,6 +207,17 @@
         "dEn": "ANJOU", 
         "address": "7260, 8e Rue, Anjou, QC, Canada", 
         "sc": "ANJO"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Antigonish - St. Francis Xavier University  - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ANTI", 
+        "long": "-61.9958", 
+        "lat": "45.6173", 
+        "sn": "ANTIGONISH", 
+        "dEn": "ANTIGONISH", 
+        "address": "5555 Union Place, Antigonish, NS, B0H 1X0, Canada", 
+        "sc": "ANTI"
     }, 
     {
         "pv": "ON", 
@@ -267,8 +311,8 @@
         "pv": "ON", 
         "name": "Azilda train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/AZIL", 
-        "long": "", 
-        "lat": "", 
+        "long": "-81.1047", 
+        "lat": "46.5517", 
         "sn": "AZILDA", 
         "dEn": "AZILDA", 
         "address": "Azilda, ON, Canada", 
@@ -286,6 +330,17 @@
         "sc": "BACK"
     }, 
     {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BADD", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BADDECK", 
+        "dEn": "BADDECK", 
+        "address": "", 
+        "sc": "BADD"
+    }, 
+    {
         "pv": "QC", 
         "name": "Barachois train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BARA", 
@@ -298,6 +353,17 @@
     }, 
     {
         "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BARR", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BARRHAVEN CENTRE", 
+        "dEn": "BARRHAVEN CENTRE", 
+        "address": "", 
+        "sc": "BARR"
+    }, 
+    {
+        "pv": "ON", 
         "name": "Barrie South (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BARS", 
         "long": "", 
@@ -306,6 +372,17 @@
         "dEn": "BARRIE SOUTH", 
         "address": "833 Yonge St, Barrie, ON, Canada", 
         "sc": "BARS"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Bathurst - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BATH", 
+        "long": "-65.6704", 
+        "lat": "47.6283", 
+        "sn": "BATHURST", 
+        "dEn": "BATHURST", 
+        "address": "400 Evangeline Dr, Bathurst, NB, E2A 2N4, Canada", 
+        "sc": "BATH"
     }, 
     {
         "pv": "NB", 
@@ -333,8 +410,8 @@
         "pv": "ON", 
         "name": "Belleville train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BLVL", 
-        "long": "-77.3738", 
-        "lat": "44.1791", 
+        "long": "-77.374", 
+        "lat": "44.1796", 
         "sn": "BELLEVILLE", 
         "dEn": "BELLEVILLE", 
         "address": "250 Station St., Belleville, ON, K8N 2T8, Canada", 
@@ -414,7 +491,7 @@
         "lat": "", 
         "sn": "BLOOR", 
         "dEn": "BLOOR", 
-        "address": "51456 Bloor St.W., Toronto, ON, Canada", 
+        "address": "1456 Bloor St.W., Toronto, ON, Canada", 
         "sc": "BLOO"
     }, 
     {
@@ -473,11 +550,22 @@
         "sc": "BVNT"
     }, 
     {
+        "pv": "PE", 
+        "name": "Borden - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRDN", 
+        "long": "-63.6859", 
+        "lat": "46.2561", 
+        "sn": "BORDEN", 
+        "dEn": "BORDEN", 
+        "address": "23912 Hwy 1, Borden, PE, C0B 1X0, Canada", 
+        "sc": "BRDN"
+    }, 
+    {
         "pv": "BC", 
         "name": "Boston Bar train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BBAR", 
-        "long": "", 
-        "lat": "", 
+        "long": "-121.45", 
+        "lat": "49.8613", 
         "sn": "BOSTON BAR", 
         "dEn": "BOSTON BAR", 
         "address": "Boston Bar, BC, Canada", 
@@ -682,6 +770,17 @@
         "sc": "BYLO"
     }, 
     {
+        "pv": "QC", 
+        "name": "Cabano - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CABA", 
+        "long": "-68.8884", 
+        "lat": "47.6833", 
+        "sn": "CABANO", 
+        "dEn": "CABANO", 
+        "address": "47 Rue Commerciale N, Cabano, QC, G0L 1E0, Canada", 
+        "sc": "CABA"
+    }, 
+    {
         "pv": "AB", 
         "name": "", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CALG", 
@@ -702,6 +801,17 @@
         "dEn": "CALGARY", 
         "address": "", 
         "sc": "XYYC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Campbellton - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CBTB", 
+        "long": "-66.6852", 
+        "lat": "48.0032", 
+        "sn": "CAMPBELLTON", 
+        "dEn": "CAMPBELLTON", 
+        "address": "157 Roseberry St., Campbellton, NB, E3N 2G6, Canada", 
+        "sc": "CBTB"
     }, 
     {
         "pv": "NB", 
@@ -740,8 +850,8 @@
         "pv": "SK", 
         "name": "Canora train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CANO", 
-        "long": "-102.301", 
-        "lat": "51.5123", 
+        "long": "-102.437", 
+        "lat": "51.6375", 
         "sn": "CANORA", 
         "dEn": "CANORA", 
         "address": "Railway, Canora, SK, S0A 0L0, Canada", 
@@ -858,6 +968,17 @@
         "sc": "CSLM"
     }, 
     {
+        "pv": "BC", 
+        "name": "Cassiar Cannery ", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CASS", 
+        "long": "-130.176", 
+        "lat": "54.1777", 
+        "sn": "CASSIAR CANNERY", 
+        "dEn": "CASSIAR CANNERY", 
+        "address": "3900 Skeena Drive, Port Edward, BC, V0V 1G0, CA", 
+        "sc": "CASS"
+    }, 
+    {
         "pv": "QC", 
         "name": "Causapscal train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CAUS", 
@@ -966,6 +1087,28 @@
         "dEn": "CHARLO", 
         "address": "685, Chaleur St., Charlo, NB, Canada", 
         "sc": "CHLO"
+    }, 
+    {
+        "pv": "PE", 
+        "name": "Charlottetown (UPEI W.A. Murphy Centre) - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CLTU", 
+        "long": "-63.1392", 
+        "lat": "46.2572", 
+        "sn": "CHARLOTTETOWN UPEI", 
+        "dEn": "CHARLOTTETOWN UPEI", 
+        "address": "550 University Avenue, Charlottetown, PE, C1A 4P3, Canada", 
+        "sc": "CLTU"
+    }, 
+    {
+        "pv": "PE", 
+        "name": "Charlottetown (Bus Terminal Mt Edward Rd.) - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CLTT", 
+        "long": "-63.1247", 
+        "lat": "46.2468", 
+        "sn": "CHARLOTTETOWN", 
+        "dEn": "CHARLOTTETOWN", 
+        "address": "7 Mt. Edward Rd, Charlottetown, PE, C1A 2Z1, Canada", 
+        "sc": "CLTT"
     }, 
     {
         "pv": "QC", 
@@ -1221,6 +1364,17 @@
         "sc": "CORM"
     }, 
     {
+        "pv": "PE", 
+        "name": "Cornwall - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CORW", 
+        "long": "-63.2156", 
+        "lat": "46.2299", 
+        "sn": "CORNWALL", 
+        "dEn": "CORNWALL", 
+        "address": "411 Rte 1, Cornwall, PE, C0A 1H0, Canada", 
+        "sc": "CORW"
+    }, 
+    {
         "pv": "ON", 
         "name": "Cornwall train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CWLL", 
@@ -1252,6 +1406,17 @@
         "dEn": "CRANBERRY PORTAGE", 
         "address": "Cranberry Portage, MB, Canada", 
         "sc": "CRNP"
+    }, 
+    {
+        "pv": "PE", 
+        "name": "Crapaud - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CRAP", 
+        "long": "-63.4987", 
+        "lat": "46.2366", 
+        "sn": "CRAPAUD", 
+        "dEn": "CRAPAUD", 
+        "address": "70 TCH, Crapaud, PE, C0A 1J0, Canada", 
+        "sc": "CRAP"
     }, 
     {
         "pv": "QC", 
@@ -1287,6 +1452,17 @@
         "sc": "CROT"
     }, 
     {
+        "pv": "NB", 
+        "name": "Dalhousie - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DALH", 
+        "long": "-66.4033", 
+        "lat": "48.0354", 
+        "sn": "DALHOUSIE", 
+        "dEn": "DALHOUSIE", 
+        "address": "2 Martin Drive, Dalhousie, NB, E8C 3C7, Canada", 
+        "sc": "DALH"
+    }, 
+    {
         "pv": "ON", 
         "name": "Dalton train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DALT", 
@@ -1320,6 +1496,17 @@
         "sc": "DRLL"
     }, 
     {
+        "pv": "NS", 
+        "name": "Dartmouth - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DART", 
+        "long": "-63.582", 
+        "lat": "44.6718", 
+        "sn": "DARTMOUTH", 
+        "dEn": "DARTMOUTH", 
+        "address": "172 Wyse Rd, Dartmouth, NS, B3A 1M6, Canada", 
+        "sc": "DART"
+    }, 
+    {
         "pv": "MB", 
         "name": "Dauphin train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DAUP", 
@@ -1331,11 +1518,22 @@
         "sc": "DAUP"
     }, 
     {
+        "pv": "QC", 
+        "name": "Ville Degelis - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DEGE", 
+        "long": "-68.6273", 
+        "lat": "47.5417", 
+        "sn": "DEGELIS", 
+        "dEn": "DEGELIS", 
+        "address": "1212 Route 185, Dégelis, QC, G5T 0E2, Canada", 
+        "sc": "DEGE"
+    }, 
+    {
         "pv": "MB", 
         "name": "Dering train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DERI", 
-        "long": "", 
-        "lat": "", 
+        "long": "-100.537", 
+        "lat": "54.2529", 
         "sn": "DERING", 
         "dEn": "DERING", 
         "address": "Dering, MB, Canada", 
@@ -1433,7 +1631,7 @@
         "pv": "QC", 
         "name": "Dorval train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DORV", 
-        "long": "-73.7414", 
+        "long": "-73.7413", 
         "lat": "45.4488", 
         "sn": "DORVAL", 
         "dEn": "DORVAL", 
@@ -1532,11 +1730,11 @@
         "pv": "AB", 
         "name": "Edmonton train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/EDMO", 
-        "long": "-113.525", 
-        "lat": "53.5804", 
+        "long": "-113.532", 
+        "lat": "53.5785", 
         "sn": "EDMONTON", 
         "dEn": "EDMONTON", 
-        "address": "12360-121 Street NW, Edmonton, AB, T5L 5C3, Canada", 
+        "address": "12360 121st Street NW, Edmonton, AB, T5L 5C3, Canada", 
         "sc": "EDMO"
     }, 
     {
@@ -1549,6 +1747,17 @@
         "dEn": "EDMONTON", 
         "address": "", 
         "sc": "XYEG"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Edmundston - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EDMU", 
+        "long": "-68.326", 
+        "lat": "47.3697", 
+        "sn": "EDMUNDSTON", 
+        "dEn": "EDMUNDSTON", 
+        "address": "191 Victoria St., Edmundston, NB, E3V 2H9, Canada", 
+        "sc": "EDMU"
     }, 
     {
         "pv": "AB", 
@@ -1582,6 +1791,17 @@
         "dEn": "ELMA", 
         "address": "Elma, MB, Canada", 
         "sc": "ELMA"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Elmsdale - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ELMS", 
+        "long": "-63.5114", 
+        "lat": "44.9806", 
+        "sn": "ELMSDALE", 
+        "dEn": "ELMSDALE", 
+        "address": "291 Hwy 214, Elmsdale, NS, B2S 2L1, Canada", 
+        "sc": "ELMS"
     }, 
     {
         "pv": "ON", 
@@ -1675,12 +1895,23 @@
         "pv": "ON", 
         "name": "Fallowfield train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/FALL", 
-        "long": "-75.7282", 
-        "lat": "45.3001", 
-        "sn": "FALLOWFIELD", 
-        "dEn": "FALLOWFIELD", 
+        "long": "-75.7366", 
+        "lat": "45.2993", 
+        "sn": "FALLOWFIELD RAIL STATION", 
+        "dEn": "FALLOWFIELD RAIL STATION", 
         "address": "3347 Fallowfield Road, Barrhaven, ON, K2J 5K9, Canada", 
         "sc": "FALL"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Falmouth - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FALM", 
+        "long": "-64.1503", 
+        "lat": "44.9939", 
+        "sn": "FALMOUTH", 
+        "dEn": "FALMOUTH", 
+        "address": "2113 Hwy 1, Falmouth, NS, B0P 1L0, Canada", 
+        "sc": "FALM"
     }, 
     {
         "pv": "QC", 
@@ -1771,6 +2002,17 @@
         "sc": "FLTL"
     }, 
     {
+        "pv": "NB", 
+        "name": "Florenceville - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FLOR", 
+        "long": "-67.6215", 
+        "lat": "46.4417", 
+        "sn": "FLORENCEVILLE", 
+        "dEn": "FLORENCEVILLE", 
+        "address": "313 Main St, Florenceville, NB, E0J 1K0, Canada", 
+        "sc": "FLOR"
+    }, 
+    {
         "pv": "ON", 
         "name": "Foleyet train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/FOLE", 
@@ -1824,6 +2066,28 @@
         "dEn": "FRANZ", 
         "address": "Railway St., Franz, ON, Canada", 
         "sc": "FRNZ"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Fredericton Airport - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYFC", 
+        "long": "-66.5306", 
+        "lat": "45.8701", 
+        "sn": "FREDERICTON AIRPORT", 
+        "dEn": "FREDERICTON AIRPORT", 
+        "address": "2570 HWY 102, Lincoln, NB, E3B 9G1, Canada", 
+        "sc": "XYFC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Fredericton - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FRED", 
+        "long": "-66.6589", 
+        "lat": "45.9575", 
+        "sn": "FREDERICTON", 
+        "dEn": "FREDERICTON", 
+        "address": "105 Dundonald St., Fredericton, NB, e3b 1w7, Canada", 
+        "sc": "FRED"
     }, 
     {
         "pv": "QC", 
@@ -1969,6 +2233,17 @@
         "sc": "GOGA"
     }, 
     {
+        "pv": "NB", 
+        "name": "Grand Falls - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GFAL", 
+        "long": "-67.7587", 
+        "lat": "47.0601", 
+        "sn": "GRAND FALLS", 
+        "dEn": "GRAND FALLS", 
+        "address": "555 Madawaska Rd., Grand Falls, NB, E3Y 1A3, Canada", 
+        "sc": "GFAL"
+    }, 
+    {
         "pv": "QC", 
         "name": "Grande Rivière train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GDRV", 
@@ -1983,8 +2258,8 @@
         "pv": "QC", 
         "name": "Grand-Mère train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GMRE", 
-        "long": "-72.6941", 
-        "lat": "46.6158", 
+        "long": "-72.6867", 
+        "lat": "46.6062", 
         "sn": "GRAND-MÈRE", 
         "dEn": "GRAND-MÈRE", 
         "address": "600 8th St. South, Grand-Mère, QC, G9T 1Y1, Canada", 
@@ -2060,8 +2335,8 @@
         "pv": "ON", 
         "name": "Guildwood train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GUIL", 
-        "long": "-79.2004", 
-        "lat": "43.756", 
+        "long": "-79.1982", 
+        "lat": "43.7553", 
         "sn": "GUILDWOOD", 
         "dEn": "GUILDWOOD", 
         "address": "4105 Kingston Road, Scarborough, ON, M1E 2M3, Canada", 
@@ -2077,6 +2352,17 @@
         "dEn": "HALCROW", 
         "address": "Halcrow, MB, Canada", 
         "sc": "HALC"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Halifax Airport - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYHZ", 
+        "long": "-63.5294", 
+        "lat": "44.8747", 
+        "sn": "HALIFAX AIRPORT", 
+        "dEn": "HALIFAX AIRPORT", 
+        "address": "1 Bell Blvd, Goffs, NS, B2T 1K2, Canada", 
+        "sc": "XYHZ"
     }, 
     {
         "pv": "NS", 
@@ -2099,6 +2385,17 @@
         "dEn": "HAMILTON", 
         "address": "36 Hunter St. E., Hamilton, ON, Canada", 
         "sc": "HAML"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Hampton - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HAMP", 
+        "long": "-65.8295", 
+        "lat": "45.5253", 
+        "sn": "HAMPTON", 
+        "dEn": "HAMPTON", 
+        "address": "632 Main Street, Hampton, NB, E5N 6H3, Canada", 
+        "sc": "HAMP"
     }, 
     {
         "pv": "BC", 
@@ -2148,8 +2445,8 @@
         "pv": "QC", 
         "name": "Hervey train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/HERV", 
-        "long": "-72.3868", 
-        "lat": "46.866", 
+        "long": "-72.4722", 
+        "lat": "46.853", 
         "sn": "HERVEY", 
         "dEn": "HERVEY", 
         "address": "445 Chemin St-Charles, Hervey, QC, G0X 1M0, Canada", 
@@ -2214,8 +2511,8 @@
         "pv": "BC", 
         "name": "Hope train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/HOPE", 
-        "long": "-121.432", 
-        "lat": "49.3835", 
+        "long": "-121.437", 
+        "lat": "49.3795", 
         "sn": "HOPE", 
         "dEn": "HOPE", 
         "address": "5th Avenue and Hudson Bay St., Hope, BC, V0X 1L4, Canada", 
@@ -2302,8 +2599,8 @@
         "pv": "ON", 
         "name": "Ingersoll train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/INGR", 
-        "long": "-80.8803", 
-        "lat": "43.0362", 
+        "long": "-80.8879", 
+        "lat": "43.0406", 
         "sn": "INGERSOLL", 
         "dEn": "INGERSOLL", 
         "address": "1 Thames Street North, Ingersoll, ON, N5C 3C6, Canada", 
@@ -2398,6 +2695,17 @@
         "sc": "KAMS"
     }, 
     {
+        "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KANA", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KANATA CENTROM", 
+        "dEn": "KANATA CENTROM", 
+        "address": "", 
+        "sc": "KANA"
+    }, 
+    {
         "pv": "QC", 
         "name": "Kapitachuan train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/KPTC", 
@@ -2440,6 +2748,17 @@
         "dEn": "KENNEDY", 
         "address": "2467 Eglinton Avenue East, Scarborough, ON, Canada", 
         "sc": "KNDY"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Kentville - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KNTV", 
+        "long": "-64.497", 
+        "lat": "45.0788", 
+        "sn": "KENTVILLE", 
+        "dEn": "KENTVILLE", 
+        "address": "66 Cornwallis St., Kentville, NS, B4N 1H1, Canada", 
+        "sc": "KNTV"
     }, 
     {
         "pv": "MB", 
@@ -2564,7 +2883,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "L'Assomption train station", 
+        "name": "L'Assomption sign post", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LASS", 
         "long": "", 
         "lat": "", 
@@ -2588,8 +2907,8 @@
         "pv": "QC", 
         "name": "La Pocatière train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LPOC", 
-        "long": "-70.1294", 
-        "lat": "46.6933", 
+        "long": "-70.0274", 
+        "lat": "47.3617", 
         "sn": "LA POCATIERE", 
         "dEn": "LA POCATIERE", 
         "address": "95 Avenue de la Gare, La Pocatière, QC, G0R 1Z0, Canada", 
@@ -2869,6 +3188,17 @@
         "dEn": "LOOS", 
         "address": "Loos, BC, Canada", 
         "sc": "LOOS"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Lower Sackville  - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LSAC", 
+        "long": "-63.6668", 
+        "lat": "44.7529", 
+        "sn": "LOWER SACKVILLE", 
+        "dEn": "LOWER SACKVILLE", 
+        "address": "51 Sackville Drive, Lower Sackville, NS, B4C 2R2, Canada", 
+        "sc": "LSAC"
     }, 
     {
         "pv": "MB", 
@@ -3190,6 +3520,17 @@
         "sc": "MIRA"
     }, 
     {
+        "pv": "NB", 
+        "name": "Miramichi - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MIRB", 
+        "long": "-65.4462", 
+        "lat": "47.0194", 
+        "sn": "MIRAMICHI", 
+        "dEn": "MIRAMICHI", 
+        "address": "186 King St., Miramichi, NB, E1N 6M5, Canada", 
+        "sc": "MIRB"
+    }, 
+    {
         "pv": "ON", 
         "name": "Missanabie train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MSBI", 
@@ -3210,6 +3551,17 @@
         "dEn": "MISSION HARBOUR", 
         "address": "Harbour Ave, Mission Harbour, BC, Canada", 
         "sc": "MSNH"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Moncton Greater Airport - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYQM", 
+        "long": "-64.6924", 
+        "lat": "46.1179", 
+        "sn": "MONCTON AIRPORT", 
+        "dEn": "MONCTON AIRPORT", 
+        "address": "777 Aviation Ave., Dieppe, NB, E1A 7P5, Canada", 
+        "sc": "XYQM"
     }, 
     {
         "pv": "NB", 
@@ -3235,7 +3587,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Mont-Joli train station", 
+        "name": "Mont-Joli - sign post", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MJLI", 
         "long": "-68.1881", 
         "lat": "48.5892", 
@@ -3279,7 +3631,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Montréal train station", 
+        "name": "Montréal Central train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MTRL", 
         "long": "-73.5662", 
         "lat": "45.5001", 
@@ -3320,6 +3672,17 @@
         "dEn": "MOUNT JOY", 
         "address": "1801 Bur Oak Ave., Markham, ON, Canada", 
         "sc": "MTJY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MOPL", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MOUNT PLEASANT", 
+        "dEn": "MOUNT PLEASANT", 
+        "address": "", 
+        "sc": "MOPL"
     }, 
     {
         "pv": "ON", 
@@ -3399,6 +3762,17 @@
         "sc": "NCAR"
     }, 
     {
+        "pv": "NS", 
+        "name": "New Glasgow - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NGLA", 
+        "long": "-62.6453", 
+        "lat": "45.5688", 
+        "sn": "NEW GLASGOW", 
+        "dEn": "NEW GLASGOW", 
+        "address": "5197 East River Rd, New Glasgow, NS, B2H 3S5, Canada", 
+        "sc": "NGLA"
+    }, 
+    {
         "pv": "BC", 
         "name": "New Hazelton train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NHAZ", 
@@ -3408,6 +3782,17 @@
         "dEn": "NEW HAZELTON", 
         "address": "New Hazelton, BC, Canada", 
         "sc": "NHAZ"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "New Minas - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NMIN", 
+        "long": "-64.4676", 
+        "lat": "45.07", 
+        "sn": "NEW MINAS", 
+        "dEn": "NEW MINAS", 
+        "address": "29 Crescent Drive, New Minas, NS, B4N 3G7, Canada", 
+        "sc": "NMIN"
     }, 
     {
         "pv": "QC", 
@@ -3457,11 +3842,11 @@
         "pv": "NY", 
         "name": "Niagara Falls station (Amtrak)", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NFNY", 
-        "long": "-79.0293", 
-        "lat": "43.1163", 
+        "long": "-79.0556", 
+        "lat": "43.1101", 
         "sn": "NIAGARA FALLS", 
         "dEn": "NIAGARA FALLS", 
-        "address": "27 St. & Lockport Rd., Niagara Falls, NY, 14305, US", 
+        "address": "825 Depot Avenue West, Niagara Falls, NY, 14305, US", 
         "sc": "NFNY"
     }, 
     {
@@ -3507,6 +3892,28 @@
         "dEn": "NORTH BEND", 
         "address": "North Bend, BC, Canada", 
         "sc": "NBND"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NSYD", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NORTH SYDNEY", 
+        "dEn": "NORTH SYDNEY", 
+        "address": "", 
+        "sc": "NSYD"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Notre Dame Du Lac - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NDDL", 
+        "long": "-68.8039", 
+        "lat": "47.6142", 
+        "sn": "NOTRE-DAME-DU-LAC", 
+        "dEn": "NOTRE-DAME-DU-LAC", 
+        "address": "495 Commercial St., Notre-Dame-du-Lac, QC, G0L 1X0, Canada", 
+        "sc": "NDDL"
     }, 
     {
         "pv": "QC", 
@@ -3630,6 +4037,17 @@
         "sc": "ORIO"
     }, 
     {
+        "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ORLE", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ORLEANS - PLACE D'ORLEANS", 
+        "dEn": "ORLEANS - PLACE D'ORLEANS", 
+        "address": "", 
+        "sc": "ORLE"
+    }, 
+    {
         "pv": "MB", 
         "name": "Orok train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/OROK", 
@@ -3639,6 +4057,17 @@
         "dEn": "OROK", 
         "address": "Orok, MB, Canada", 
         "sc": "OROK"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Oxford - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OROM", 
+        "long": "-63.8816", 
+        "lat": "45.7255", 
+        "sn": "OROMOCTO", 
+        "dEn": "OROMOCTO", 
+        "address": "4602 Upper Main St., Oxford, NS, B0M 1P0, Canada", 
+        "sc": "OROM"
     }, 
     {
         "pv": "ON", 
@@ -3694,6 +4123,17 @@
         "dEn": "OTTERMERE", 
         "address": "Ottermere, ON, Canada", 
         "sc": "OTTM"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Oromocto - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OXFO", 
+        "long": "-66.4726", 
+        "lat": "45.8524", 
+        "sn": "OXFORD", 
+        "dEn": "OXFORD", 
+        "address": "405 Miramichi Rd, Oromocto, NB, E2V 0B3, Canada", 
+        "sc": "OXFO"
     }, 
     {
         "pv": "BC", 
@@ -3793,6 +4233,17 @@
         "dEn": "PERCÉ", 
         "address": "44 rue de l'Anse à Beaufils, Percé, QC, G0C 1G0, Canada", 
         "sc": "PERC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Perth Andover - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PERT", 
+        "long": "-67.7143", 
+        "lat": "46.7452", 
+        "sn": "PERTH-ANDOVER", 
+        "dEn": "PERTH-ANDOVER", 
+        "address": "18 F, Tribe Rd, Unit 2, Perth Andover, NB, E7H 2B9, Canada", 
+        "sc": "PERT"
     }, 
     {
         "pv": "NB", 
@@ -3927,11 +4378,22 @@
         "sc": "PDAN"
     }, 
     {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PHAW", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PORT HAWKESBURY", 
+        "dEn": "PORT HAWKESBURY", 
+        "address": "", 
+        "sc": "PHAW"
+    }, 
+    {
         "pv": "ON", 
         "name": "Port Hope train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/PHOP", 
-        "long": "", 
-        "lat": "", 
+        "long": "-78.2986", 
+        "lat": "43.9435", 
         "sn": "PORT HOPE", 
         "dEn": "PORT HOPE", 
         "address": "Hayward Street, Port Hope, ON, Canada", 
@@ -3993,17 +4455,6 @@
         "sc": "PRUP"
     }, 
     {
-        "pv": "BC", 
-        "name": "", 
-        "url": "http://www.viarail.ca/en/embedded/station/detail/XYPR", 
-        "long": "", 
-        "lat": "", 
-        "sn": "PRINCE RUPERT", 
-        "dEn": "PRINCE RUPERT", 
-        "address": "", 
-        "sc": "XYPR"
-    }, 
-    {
         "pv": "MB", 
         "name": "Prospector train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/PROS", 
@@ -4024,6 +4475,17 @@
         "dEn": "QUÉBEC", 
         "address": "450 rue de la Gare du Palais, Québec, QC, G1K 3X2, Canada", 
         "sc": "QBEC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Quispamsis - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/QUIS", 
+        "long": "-65.9485", 
+        "lat": "45.4158", 
+        "sn": "QUISPAMSIS", 
+        "dEn": "QUISPAMSIS", 
+        "address": "8 Millenium Dr, Quispamsis, NB, E2E 4B1, Canada", 
+        "sc": "QUIS"
     }, 
     {
         "pv": "ON", 
@@ -4114,6 +4576,17 @@
         "sc": "RSRV"
     }, 
     {
+        "pv": "NB", 
+        "name": "Rexton - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/REXT", 
+        "long": "-64.877", 
+        "lat": "46.6468", 
+        "sn": "REXTON", 
+        "dEn": "REXTON", 
+        "address": "127 Main Street, Rexton, NB, E4W 2B4, Canada", 
+        "sc": "REXT"
+    }, 
+    {
         "pv": "NY", 
         "name": "Rhinecliff station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RHIN", 
@@ -4200,6 +4673,17 @@
         "dEn": "RIVIÈRE-DES-PRAIRIES", 
         "address": "10801, boulevard Maurice-Duplessis, Montréal, QC, Canada", 
         "sc": "RDPR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Riviere-Du-Loup - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RDLB", 
+        "long": "-69.5609", 
+        "lat": "47.8207", 
+        "sn": "RIVIÈRE-DU-LOUP", 
+        "dEn": "RIVIÈRE-DU-LOUP", 
+        "address": "317 Hotel-de-ville W., Riviere-Du-Loup, QC, G5R 5S4, Canada", 
+        "sc": "RDLB"
     }, 
     {
         "pv": "QC", 
@@ -4346,6 +4830,17 @@
     }, 
     {
         "pv": "NB", 
+        "name": "Sackville - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SACB", 
+        "long": "-64.3751", 
+        "lat": "45.9077", 
+        "sn": "SACKVILLE", 
+        "dEn": "SACKVILLE", 
+        "address": "211 Main Street, Sackville, NS, E4L 4C1, Canada", 
+        "sc": "SACB"
+    }, 
+    {
+        "pv": "NB", 
         "name": "Sackville train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SACK", 
         "long": "-64.3664", 
@@ -4354,6 +4849,17 @@
         "dEn": "SACKVILLE", 
         "address": "66 Lorne St., Sackville, NB, E4L 4A1, Canada", 
         "sc": "SACK"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Saint John - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SJMB", 
+        "long": "-66.0653", 
+        "lat": "45.2778", 
+        "sn": "SAINT JOHN", 
+        "dEn": "SAINT JOHN", 
+        "address": "125 Station Street, Saint John, NB, E2L 4X4, Canada", 
+        "sc": "SJMB"
     }, 
     {
         "pv": "QC", 
@@ -4422,6 +4928,17 @@
         "sc": "SLAM"
     }, 
     {
+        "pv": "NB", 
+        "name": "Salisbury - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SALI", 
+        "long": "-65.0607", 
+        "lat": "46.0497", 
+        "sn": "SALISBURY", 
+        "dEn": "SALISBURY", 
+        "address": "2995 Old Fredericton Rd., Salisbury, NB, E4J 2G1, Canada", 
+        "sc": "SALI"
+    }, 
+    {
         "pv": "QC", 
         "name": "Sanford train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SANF", 
@@ -4464,6 +4981,17 @@
         "dEn": "SASKATOON", 
         "address": "Unit 38, 1701 Chappell Drive, Saskatoon, SK, S7M 5P5, Canada", 
         "sc": "SASK"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sauvé station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SAUV", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SAUVÉ", 
+        "dEn": "SAUVÉ", 
+        "address": "9600 rue Berri, Montréal, QC, CA", 
+        "sc": "SAUV"
     }, 
     {
         "pv": "ON", 
@@ -4524,8 +5052,8 @@
         "pv": "QC", 
         "name": "Shawinigan train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SHWN", 
-        "long": "-72.7439", 
-        "lat": "46.5541", 
+        "long": "-72.7495", 
+        "lat": "46.5463", 
         "sn": "SHAWINIGAN", 
         "dEn": "SHAWINIGAN", 
         "address": "1560 Chemin du CN, Shawinigan, QC, G9N 2B4, Canada", 
@@ -4541,6 +5069,17 @@
         "dEn": "SHEAHAN", 
         "address": "Sheahan, ON, Canada", 
         "sc": "SHEA"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Shediac - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHED", 
+        "long": "-64.5097", 
+        "lat": "46.2259", 
+        "sn": "SHEDIAC", 
+        "dEn": "SHEDIAC", 
+        "address": "644 Main Street, Shediac, NB, E4P 2H3, Canada", 
+        "sc": "SHED"
     }, 
     {
         "pv": "MB", 
@@ -4642,22 +5181,11 @@
         "sc": "SMTR"
     }, 
     {
-        "pv": "BC", 
-        "name": "", 
-        "url": "http://www.viarail.ca/en/embedded/station/detail/XYYD", 
-        "long": "", 
-        "lat": "", 
-        "sn": "SMITHERS", 
-        "dEn": "SMITHERS", 
-        "address": "", 
-        "sc": "XYYD"
-    }, 
-    {
         "pv": "ON", 
         "name": "Smiths Falls train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SMTF", 
-        "long": "-76.023", 
-        "lat": "44.9113", 
+        "long": "-76.0238", 
+        "lat": "44.9125", 
         "sn": "SMITHS FALLS", 
         "dEn": "SMITHS FALLS", 
         "address": "46 Union Street, Smiths Falls, ON, K7A 5C4, Canada", 
@@ -4700,8 +5228,8 @@
         "pv": "ON", 
         "name": "St. Marys train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SMYS", 
-        "long": "-81.0034", 
-        "lat": "43.3632", 
+        "long": "-81.1392", 
+        "lat": "43.2601", 
         "sn": "ST.MARYS", 
         "dEn": "ST.MARYS", 
         "address": "5 James St. North, St. Marys, ON, N4X 1B1, Canada", 
@@ -4730,6 +5258,17 @@
         "sc": "SBLG"
     }, 
     {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SREW", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STEWIACKE", 
+        "dEn": "STEWIACKE", 
+        "address": "", 
+        "sc": "SREW"
+    }, 
+    {
         "pv": "QC", 
         "name": "Saint-Hilaire de Portneuf train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SHPN", 
@@ -4752,6 +5291,17 @@
         "sc": "SJUS"
     }, 
     {
+        "pv": "NB", 
+        "name": "St Leonard - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SLEO", 
+        "long": "-67.9195", 
+        "lat": "47.1679", 
+        "sn": "ST-LEONARD", 
+        "dEn": "ST-LEONARD", 
+        "address": "365 St- Jean, St Leonard, NB, E7E 2C3, Canada", 
+        "sc": "SLEO"
+    }, 
+    {
         "pv": "QC", 
         "name": "Saint-Léonard - Montréal-Nord (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STLE", 
@@ -4761,6 +5311,17 @@
         "dEn": "ST-LÉONARD-MONTRÉAL-NORD", 
         "address": "10710, boulevard Lacordaire, Montréal-Nord, QC, Canada", 
         "sc": "STLE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "St Louis Du Ha Ha - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SLHH", 
+        "long": "-68.9609", 
+        "lat": "47.6734", 
+        "sn": "ST-LOUIS-DU-HA-HA", 
+        "dEn": "ST-LOUIS-DU-HA-HA", 
+        "address": "230 Commercial St., St-Louis-du-Ha!Ha!, QC, G0L 3S0, Canada", 
+        "sc": "SLHH"
     }, 
     {
         "pv": "QC", 
@@ -4928,6 +5489,17 @@
         "sc": "SULT"
     }, 
     {
+        "pv": "PE", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMSD", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SUMMERSIDE", 
+        "dEn": "SUMMERSIDE", 
+        "address": "", 
+        "sc": "SMSD"
+    }, 
+    {
         "pv": "QC", 
         "name": "Summit Club train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SMMC", 
@@ -4961,6 +5533,28 @@
         "sc": "SNYB"
     }, 
     {
+        "pv": "NB", 
+        "name": "Sussex - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SUSX", 
+        "long": "-65.5141", 
+        "lat": "45.73", 
+        "sn": "SUSSEX", 
+        "dEn": "SUSSEX", 
+        "address": "11 route 890, Sussex, NB, E4G 2V8, Canada", 
+        "sc": "SUSX"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SYDN", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SYDNEY", 
+        "dEn": "SYDNEY", 
+        "address": "", 
+        "sc": "SYDN"
+    }, 
+    {
         "pv": "NY", 
         "name": "Syracuse station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SYRA", 
@@ -4992,17 +5586,6 @@
         "dEn": "TERRACE", 
         "address": "3100 Kalum Street, Terrace, BC, V8G 4L1, Canada", 
         "sc": "TRRC"
-    }, 
-    {
-        "pv": "BC", 
-        "name": "", 
-        "url": "http://www.viarail.ca/en/embedded/station/detail/XYXT", 
-        "long": "", 
-        "lat": "", 
-        "sn": "TERRACE-KITIMAT", 
-        "dEn": "TERRACE-KITIMAT", 
-        "address": "", 
-        "sc": "XYXT"
     }, 
     {
         "pv": "QC", 
@@ -5052,8 +5635,8 @@
         "pv": "MB", 
         "name": "Thompson train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/THOM", 
-        "long": "-97.8538", 
-        "lat": "55.7355", 
+        "long": "-97.8376", 
+        "lat": "55.7394", 
         "sn": "THOMPSON", 
         "dEn": "THOMPSON", 
         "address": "1310 Station Rd., Thompson, MB, R8N 1M8, Canada", 
@@ -5140,8 +5723,8 @@
         "pv": "ON", 
         "name": "Trenton Junction train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/TRNJ", 
-        "long": "-77.5818", 
-        "lat": "44.1003", 
+        "long": "-77.5986", 
+        "lat": "44.1156", 
         "sn": "TRENTON JUNCTION", 
         "dEn": "TRENTON JUNCTION", 
         "address": "18277B Telephone Rd, Trenton, ON, K8V 5P9, Canada", 
@@ -5168,6 +5751,17 @@
         "dEn": "TROIS PISTOLES", 
         "address": "231 De la Gare, Trois Pistoles, QC, G0L 4K0, Canada", 
         "sc": "TPIS"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Truro - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRUB", 
+        "long": "-63.2947", 
+        "lat": "45.3559", 
+        "sn": "TRURO", 
+        "dEn": "TRURO", 
+        "address": "280 Willow Street, Truro, NS, B2N 5A3, Canada", 
+        "sc": "TRUB"
     }, 
     {
         "pv": "NS", 
@@ -5325,7 +5919,7 @@
     }, 
     {
         "pv": "BC", 
-        "name": "Victoria station train", 
+        "name": "Victoria Bus Terminal", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/VICB", 
         "long": "-123.366", 
         "lat": "48.4211", 
@@ -5336,7 +5930,7 @@
     }, 
     {
         "pv": "AB", 
-        "name": "Viking train station", 
+        "name": "Viking sign post", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/VKNG", 
         "long": "", 
         "lat": "", 
@@ -5424,6 +6018,17 @@
     }, 
     {
         "pv": "ON", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WHAR", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WEST HARBOUR", 
+        "dEn": "WEST HARBOUR", 
+        "address": "", 
+        "sc": "WHAR"
+    }, 
+    {
+        "pv": "ON", 
         "name": "Weston station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/WEST", 
         "long": "", 
@@ -5487,6 +6092,17 @@
         "dEn": "WHITEHORSE", 
         "address": "", 
         "sc": "XYXY"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WHYC", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WHYCOCOMAGH", 
+        "dEn": "WHYCOCOMAGH", 
+        "address": "", 
+        "sc": "WHYC"
     }, 
     {
         "pv": "QC", 
@@ -5577,6 +6193,28 @@
         "sc": "WVHO"
     }, 
     {
+        "pv": "NS", 
+        "name": "Wolfville (Acadia University) - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WOLF", 
+        "long": "-64.3668", 
+        "lat": "45.0883", 
+        "sn": "WOLFVILLE-ACADIA UNIV", 
+        "dEn": "WOLFVILLE-ACADIA UNIV", 
+        "address": "15 Horton Ave, Wolfville, NS, B4P 1K9, Canada", 
+        "sc": "WOLF"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Wolfville (Mud Creek Mini Mart) - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WOLU", 
+        "long": "-64.3637", 
+        "lat": "45.0829", 
+        "sn": "WOLFVILLE-MUD CREEK", 
+        "dEn": "WOLFVILLE-MUD CREEK", 
+        "address": "12 Skyway Ave, Wolfville, NS, B4P 1R7, Canada", 
+        "sc": "WOLU"
+    }, 
+    {
         "pv": "ON", 
         "name": "Woman River train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/WOMR", 
@@ -5597,6 +6235,17 @@
         "dEn": "WOODSTOCK", 
         "address": "100 Victoria St. South, Woodstock, ON, N4S 8R4, Canada", 
         "sc": "WDST"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Woodstock - Maritime Bus - train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WOOD", 
+        "long": "-67.6079", 
+        "lat": "46.1228", 
+        "sn": "WOODSTOCK", 
+        "dEn": "WOODSTOCK", 
+        "address": "102 Gallop Street, Woodstock, NB, E7M 3Z7, Canada", 
+        "sc": "WOOD"
     }, 
     {
         "pv": "ON", 
